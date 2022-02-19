@@ -9,7 +9,7 @@ You are to record the voice over assets for two characters, **Medi** and **Samse
 
 You will record voice over assets and deliver them, along with an updated `script-sheet.tsv` file.
 
-You can read the lines yourself or reccruit voice over talent, but **You are required to be the recording engineer.**
+You can read the lines yourself or reccruit voice over talent, but **You are required to be the recording engineer.** I will be looking for well recorded/edited audio, not perfect performances.
 
 
 ### Audio asset requirements
@@ -48,5 +48,3 @@ Unless you have your own vocal mic, please reserve equipment here:
 Here's a [quick video](https://www.youtube.com/watch?v=XbXL-ZrprCw) on how to import and export TSV files with Google Sheets.
 
 Since TSV files are plain text, they can be edited with any text editor. Each column in a row is separated by a tab, each row separated by a line break.
-
-
