@@ -1,15 +1,11 @@
 Character	Lines	Game Designer Notes	Filename	Voice Talent Notes
-<<<<<<< HEAD
-Medi	I'm not so sure about that			
-Medi	That sounds like a plan			
-=======
-Medi	I'm not so sure about that    medi1      			
-Medi	That sounds like a plan
->>>>>>> parent of 7fdef98... Update script-sheet.tsv
-Medi	What do you think we should do			
-Medi	What was that?	Curious, not too alarmed		
-Medi	Be quiet, I see gaurds on patrol	Quiet but serious		
-Samsel	The way that can be named is not the true way			
-Samsel	The answer you seek is already within you			
-Samsel	To go forward, you must go back			
-Samsel	The obstable is the way			
+				
+Medi	I'm not so sure about that		medi1	
+Medi	That sounds like a plan		medi2	
+Medi	What do you think we should do		medi3	
+Medi	What was that?	Curious, not too alarmed	medi4	
+Medi	Be quiet, I see gaurds on patrol	Quiet but serious	medi5	
+Samsel	The way that can be named is not the true way		samsel1	
+Samsel	The answer you seek is already within you		samsel2	
+Samsel	To go forward, you must go back		samsel3	
+Samsel	The obstable is the way		samsel4	
